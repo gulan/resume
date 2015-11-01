@@ -1,17 +1,14 @@
 Resume of Glen Wilder
 =====================
 
+```
 Glen Wilder
-
 Santa Clara, CA
-
 <glen.wilder@gmail.com>
-
 Github: <https://github.com/gulan>
-
 LinkedIn: <https://www.linkedin.com/pub/glen-wilder/0/4b7/653>
-
 Sourceforge: <https://sourceforge.net/u/gwilder>
+```
 
 * * * * *
 
